@@ -1,16 +1,19 @@
-### Hi there 👋
+### Ola pessoal, me chamo Thiago Torres 👊🏽
 
-<!--
-**ThiagoTorres1/ThiagoTorres1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+🤓 &nbsp;Sou um estudante de Flutter mobile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Amo desenvolver aplicativos;
+* Aplico meus conhecimentos em projetos pessoais;
+* Ajudo a comunidade.
+
+### 🧠 &nbsp;No caminho do conhecimento
+Me encontro no processo de aprendizagem para cada vez mais me tornar um profissional mais completo
+
+### 💻 &nbsp;Usar a tecnologia para ajudar as pessoas
+Nada melhor do que alinhar a minha paixão em ajudar as pessoas, com a tecnologia! Criando projetos que possam agregar na sociedade
+
+### ☕️&nbsp; Vamos conversar? 
+👉🏼&nbsp; Me chama no [LinkedIn](https://www.linkedin.com/in/thiago-torres-704589204/)
+
