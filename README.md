@@ -2,9 +2,9 @@
 
 ----
 
-🤓 &nbsp;Sou um estudante de Flutter mobile
+🤓 &nbsp;Sou um estudante de Desenvolvimento WEB
 
-* Amo desenvolver aplicativos;
+* Amo desenvolver páginas;
 * Aplico meus conhecimentos em projetos pessoais;
 * Ajudo a comunidade.
 
